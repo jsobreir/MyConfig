@@ -1,0 +1,4 @@
+echo '*' > .gitignore
+echo '!.tmux.conf' >> .gitignore
+echo '!.zshrc' >> .gitignore
+
